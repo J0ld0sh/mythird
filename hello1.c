@@ -2,6 +2,6 @@
 
 void main (void)
 {
-	printf("hello, world of human!")
+	printf("hello, world of human gx!")
 	return;
 }
